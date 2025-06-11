@@ -281,7 +281,7 @@
     {
       "id": 21,
       "breed": "Shih Tzu",
-      "image": "https://dogtime.com/wp-content/uploads/sites/12/2023/12/GettyImages-1487826002-e1702396830635.jpg?w=1024",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Shih-Tzu_CHIA.jpg/320px-Shih-Tzu_CHIA.jpg",
       "description": "Small toy dog; outgoing, affectionate, and alert.",
       "max_weight_kg": 7,
       "max_age_years": 16,
@@ -295,7 +295,7 @@
     {
       "id": 22,
       "breed": "Great Dane",
-      "image": "https://i.pinimg.com/736x/6a/ec/81/6aec816718b2f8dbfc43744d31ffe769.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Great_Dane_2011.jpg/320px-Great_Dane_2011.jpg",
       "description": "Giant breed; friendly giant, easygoing, and affectionate.",
       "max_weight_kg": 70,
       "max_age_years": 9,
@@ -309,7 +309,7 @@
     {
       "id": 23,
       "breed": "Pomeranian",
-      "image": "https://spotpetinsurance.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fm5ehn3s5t7ec%2F5R0yZ3oHNpb3cD8acHJNcA%2F5a92191728af78c9f0161e6dbf833fe2%2FPomeranian_Price.webp&w=3840&q=75",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pom_in_park.jpg/320px-Pom_in_park.jpg",
       "description": "Small Spitz-type dog; lively, bold, and friendly.",
       "max_weight_kg": 3,
       "max_age_years": 16,
@@ -323,7 +323,7 @@
     {
       "id": 24,
       "breed": "Boston Terrier",
-      "image": "https://www.futterhaus.de/media/i/csm_Boston_Terrier_Portrait_5f76aab7ac-2762-2.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Boston_Terrier_600.jpg/320px-Boston_Terrier_600.jpg",
       "description": "Small, compact; friendly, intelligent, and tuxedo-like coat.",
       "max_weight_kg": 11,
       "max_age_years": 15,
@@ -337,7 +337,7 @@
     {
       "id": 25,
       "breed": "Miniature American Shepherd",
-      "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s070567e18de9f4b5/image/i04618a715117a82a/version/1502020722/image.jpg//",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Miniature_American_Shepherd.jpg/320px-Miniature_American_Shepherd.jpg",
       "description": "Small herding dog; smart, agile, and versatile.",
       "max_weight_kg": 18,
       "max_age_years": 14,
@@ -351,7 +351,7 @@
     {
       "id": 26,
       "breed": "Havanese",
-      "image": "https://www.metlifepetinsurance.com/content/dam/metlifecom/us/metlifepetinsurance/images/blog/Thumbnails/breed-spotlight/havanese.webp",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Havanese_in_snow.jpg/320px-Havanese_in_snow.jpg",
       "description": "Small companion dog; friendly, intelligent, and adaptable.",
       "max_weight_kg": 7,
       "max_age_years": 15,
@@ -365,7 +365,7 @@
     {
       "id": 27,
       "breed": "Siberian Husky",
-      "image": "https://spotpet.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fm5ehn3s5t7ec%2Fwp-image-199684%2Fe0685092574d4f77162f2198264a7d6b%2FSiberian_Husky-1.jpeg&w=3840&q=75",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Siberian_Husky_pho.jpg/320px-Siberian_Husky_pho.jpg",
       "description": "Medium working dog; energetic, friendly, and good for cold climates.",
       "max_weight_kg": 27,
       "max_age_years": 13,
@@ -379,7 +379,7 @@
     {
       "id": 28,
       "breed": "Chihuahua",
-      "image": "https://www.24petwatch.com/blog/media_11c97963bb4ec5f6127d448ef7e6cd3331eab470b.jpeg?width=1200&format=pjpg&optimize=medium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chihuahua2.jpg/320px-Chihuahua2.jpg",
       "description": "Tiny toy dog; lively, devoted, and alert.",
       "max_weight_kg": 2,
       "max_age_years": 18,
@@ -393,7 +393,7 @@
     {
       "id": 29,
       "breed": "English Springer Spaniel",
-      "image": "https://www.edogs.de/magazin/wp-content/uploads/English-Springer-Spaniel-von-der-Seite.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/English_Springer_Spaniel.jpg/320px-English_Springer_Spaniel.jpg",
       "description": "Medium gundog; friendly, athletic, and eager to please.",
       "max_weight_kg": 25,
       "max_age_years": 13,
@@ -407,7 +407,7 @@
     {
       "id": 30,
       "breed": "Shetland Sheepdog",
-      "image": "https://cdn.britannica.com/02/240502-050-154C4544/Shetland-Sheepdog-Sheltie.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Shetland_Sheepdog_600.jpg/320px-Shetland_Sheepdog_600.jpg",
       "description": "Small herding dog; bright, agile, and reserved with strangers.",
       "max_weight_kg": 12,
       "max_age_years": 14,
@@ -421,7 +421,7 @@
     {
       "id": 31,
       "breed": "Border Collie",
-      "image": "https://americannaturalpremium.com/wp-content/uploads/2024/02/AdobeStock_268313239-scaled.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Border_Collie_600.jpg/320px-Border_Collie_600.jpg",
       "description": "Medium herding dog; extremely intelligent, energetic, and trainable.",
       "max_weight_kg": 20,
       "max_age_years": 17,
@@ -435,7 +435,7 @@
     {
       "id": 32,
       "breed": "Brittany",
-      "image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-07/Brittany1_0.jpg?h=05901361&itok=xAAkqufT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Brittany_Retriever.jpg/320px-Brittany_Retriever.jpg",
       "description": "Medium gundog; versatile, affectionate, and agile.",
       "max_weight_kg": 20,
       "max_age_years": 14,
@@ -449,7 +449,7 @@
     {
       "id": 33,
       "breed": "Belgian Malinois",
-      "image": "https://a-z-animals.com/media/2023/09/shutterstock-2277309561-huge-licensed-scaled.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Belgian_Malinois_600.jpg/320px-Belgian_Malinois_600.jpg",
       "description": "Medium-large herding dog; intelligent, energetic, and protective.",
       "max_weight_kg": 27,
       "max_age_years": 14,
@@ -463,7 +463,7 @@
     {
       "id": 34,
       "breed": "Basset Hound",
-      "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147569900/images/4101ee2-45c0-f55a-2c12-60317f6ce5d8_basset-hound-sitting-on-sidewalk-271176049-2000-3d4bb8d43af74d139f2e3be5def77973.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Basset_Hound.jpg/320px-Basset_Hound.jpg",
       "description": "Short-legged scent hound; gentle, laid-back, and stubborn.",
       "max_weight_kg": 34,
       "max_age_years": 12,
@@ -477,7 +477,7 @@
     {
       "id": 35,
       "breed": "Vizsla",
-      "image": "https://media.os.fressnapf.com/cms/2020/08/ratgeber_hund_rasse_portraits_magyar-vizsla_1_1200x527..jpg?t=cmsimg_920",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vizsla_600.jpg/320px-Vizsla_600.jpg",
       "description": "Medium gundog; energetic, affectionate, and obedient.",
       "max_weight_kg": 30,
       "max_age_years": 14,
@@ -491,7 +491,7 @@
     {
       "id": 36,
       "breed": "English Cocker Spaniel",
-      "image": "https://cdn.shopify.com/s/files/1/0566/1861/4982/files/rasseportrait-english-cockerspaniel-pawsome00002_1024x1024.jpg?v=1676479907",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/English_Cocker_Spaniel_600.jpg/320px-English_Cocker_Spaniel_600.jpg",
       "description": "Medium gundog; cheerful, affectionate, and compact.",
       "max_weight_kg": 14,
       "max_age_years": 14,
@@ -505,7 +505,7 @@
     {
       "id": 37,
       "breed": "Maltese",
-      "image": "https://www.trupanion.com/images/trupanionwebsitelibraries/bg/happy-maltese.jpg?sfvrsn=8b815bf_5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Maltese_600.jpg/320px-Maltese_600.jpg",
       "description": "Tiny toy dog; gentle, playful, and lively.",
       "max_weight_kg": 3,
       "max_age_years": 15,
@@ -519,7 +519,7 @@
     {
       "id": 38,
       "breed": "Pug",
-      "image": "https://cdn.britannica.com/35/233235-050-8DED07E3/Pug-dog.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pug_600.jpg/320px-Pug_600.jpg",
       "description": "Small, wrinkled, short-muzzled; charming, affectionate, and mischievous.",
       "max_weight_kg": 8,
       "max_age_years": 13,
@@ -533,7 +533,7 @@
     {
       "id": 39,
       "breed": "Collie",
-      "image": "https://www.petfinder.ch/sites/default/files/styles/masonry_media/public/2020-11/collie-rough_58779107.jpg?itok=XsEjQcrM",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Collie_600.jpg/320px-Collie_600.jpg",
       "description": "Medium herding dog; graceful, loyal, and intelligent.",
       "max_weight_kg": 27,
       "max_age_years": 14,
@@ -547,7 +547,7 @@
     {
       "id": 40,
       "breed": "Mastiff",
-      "image": "https://www.zooroyal.de/magazin/wp-content/uploads/2017/03/mastiff-hunderassen-760x560.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mastiff_600.jpg/320px-Mastiff_600.jpg",
       "description": "Giant breed; gentle, dignified, and protective.",
       "max_weight_kg": 100,
       "max_age_years": 10,
@@ -557,6 +557,41 @@
         "gastric dilatation-volvulus",
         "heart disease"
       ]
+    },
+    {
+      "id": 41,
+      "breed": "Pitbull",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mastiff_600.jpg/320px-Mastiff_600.jpg",
+      "description": "Medium gundog; energetic, affectionate, and loyal.",
+      "max_weight_kg": 27,
+      "max_age_years": 15,
+      "fun_fact": "One of the heaviest dog breeds; some are called English Mastiffs.",
+      "common_diseases": [
+        "hip dysplasia",
+        "allergies",
+        "heart disease",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "id": "88fc8e14-3928-4629-9a8c-72afe37de8fd",
+      "image": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/18d0/live/88ff5600-d979-11ef-a5c8-1da73bd59591.jpg.webp",
+      "breed": "Labrador",
+      "description": "cute",
+      "max_age": 15,
+      "max_weight": 23,
+      "disease": "heart",
+      "fact": "funny"
+    },
+    {
+      "id": "a71500cc-f76b-4d15-8d75-e21c169d0993",
+      "image": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/18d0/live/88ff5600-d979-11ef-a5c8-1da73bd59591.jpg.webp",
+      "breed": "Labrador",
+      "description": "cute",
+      "max_age_years": 15,
+      "max_weight_kg": 23,
+      "disease": "heart",
+      "fact": "funny"
     }
   ]
 }
